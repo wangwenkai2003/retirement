@@ -1,0 +1,23 @@
+
+.scroll-Y.data-v-42b55fc6 {
+		height: 300rpx;
+}
+.scroll-view_H.data-v-42b55fc6 {
+		white-space: nowrap;
+		width: 100%;
+}
+.scroll-view-item.data-v-42b55fc6 {
+		height: 300rpx;
+		line-height: 300rpx;
+		text-align: center;
+		font-size: 36rpx;
+}
+.scroll-view-item_H.data-v-42b55fc6 {
+		display: inline-block;
+		width: 100%;
+		height: 300rpx;
+		line-height: 300rpx;
+		text-align: center;
+		font-size: 36rpx;
+}
+

@@ -1,0 +1,26 @@
+
+.container {
+  position: relative;
+}
+
+/* 上传按钮样式，固定在页面底部，简洁明快的设计 */
+.container .fixed-upload-button {
+  position: fixed;
+  top: 20px;
+  right: 5px;
+  width: 40pxs;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 8px;
+  color: #fff;
+  background-color: #007aff;
+  border-radius: 20px;
+  z-index: 99;
+  transition: all 0.3s ease; /* 添加过渡效果 */
+}
+.form-container{
+	padding: 10rpx;
+}
+
+

@@ -1,0 +1,35 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "bigPackageSizeSupport": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.3.4",
+  "appid": "wx94ba18de21fa2d2e",
+  "projectname": "retirement",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "projectArchitecture": "multiPlatform",
+  "simulatorPluginLibVersion": {
+    "wxext14566970e7e9f62": "2.27.3",
+    "wxextd2e17127608c3": "2.27.3"
+  }
+}

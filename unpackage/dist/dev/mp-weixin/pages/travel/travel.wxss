@@ -1,0 +1,16 @@
+
+.chat_item.data-v-2f7c86f4{
+		height: 15vh;
+		border-bottom:1px solid #f4f4f4 ;
+		padding: 20rpx;
+		display: flex;
+		align-items: center;
+}
+.friend_item.data-v-2f7c86f4{
+	height: 10vh;
+	border-bottom:1px solid #f4f4f4 ;
+	padding: 10rpx;
+	display: flex;
+	align-items: center;
+}	
+

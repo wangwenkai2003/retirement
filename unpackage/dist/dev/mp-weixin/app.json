@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/travel/travel",
+    "pages/chat/chat",
+    "pages/index/index",
+    "pages/medical/medical",
+    "pages/food/food",
+    "pages/stay/stay",
+    "pages/my/my",
+    "pages/chat/groupChat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
